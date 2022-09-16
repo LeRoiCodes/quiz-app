@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import QuestionList from "../data/questions.json";
+import QuestionList from "../data/kwangaquestions.json";
 import Question from './Question';
 import QuizResult from './QuizResult';
 
